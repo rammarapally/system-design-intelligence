@@ -8,6 +8,7 @@ GridMind is a next-generation energy management platform that orchestrates gener
 
 - **[US Power Grid Intelligence 2025-2050](./us-power-grid-intelligence.md)** - Comprehensive analysis of America's energy future with forecasts, SMR details, and capacity projections
 - **[GridMind 2.0 Architecture](./gridmind-v2-architecture.md)** - Enhanced AI trading platform for 2GW+ data center era
+- **[Data Platform Architecture](./data-platform-architecture.md)** - End-to-end IT & data infrastructure with Snowflake, ML platform, and AI agents
 
 ---
 
