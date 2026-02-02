@@ -4,7 +4,12 @@
 
 TrustCoin is a next-generation digital bank built from the ground up with AI at its core. No legacy systems, no friction—just seamless financial services powered by autonomous agents.
 
+## 📚 Documentation
+
+- **[Data Platform Architecture](./data-platform-architecture.md)** - Comprehensive IT/data infrastructure with cards, payments, fraud ML, real-time processing, and Snowflake analytics
+
 ---
+
 
 ## 🎯 Vision
 
